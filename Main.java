@@ -4,7 +4,6 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.net.URLConnection;
 import javax.swing.*;
-
 import static java.awt.Color.*;
 
 // to add panel on Login Frame where gif will be shown
