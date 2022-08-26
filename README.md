@@ -14,4 +14,6 @@ To run this program on your machine ....
 
 My data-base name for this project is 'student-record' , this database contains two tables ---> Departments,student
 See images for full detail ->
+
+
 ![Screenshot from 2022-08-26 14-25-20](https://user-images.githubusercontent.com/79046384/186867044-d0a8da92-fc6e-4627-8900-4957a2dafd23.png)
