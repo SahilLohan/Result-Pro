@@ -1,4 +1,4 @@
-# Result-Downloader-Desktop-Application
+# Result-Pro
 
 This Project is about creating a desktop application using java Swing and AWT 
 
